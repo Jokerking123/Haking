@@ -1,2 +1,2 @@
 # Haking
-Most powerful weapon is data
+Most powerfull weapon is data
